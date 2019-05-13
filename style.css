@@ -22,3 +22,9 @@ main{
   padding: 8px;
   margin: 12px;
 }
+.student-owner{
+  background-color: lightblue;
+}
+.student-contributor{
+  background-color: lightgoldenrodyellow;
+}
